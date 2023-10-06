@@ -17,7 +17,7 @@ function Cards() {
           <h2 className="card-heading">LAMP Stack Vs MEAN stack:development</h2>
           <a className="anchor-tag" href="https://www.edyoda.com/">Edyoda</a>
           <span> | &nbsp; <time dateTime="2023-07-01">July 1, 2023</time></span>
-          <p className="desc">In today’s dynamic world, rapid web application development with a smooth user interface that can adapt to specific features is the main business requirement. Many organizations around the word specific features is the main business requirement. Many organizations around the wordspecific features is the main business requirement.  ....</p>
+          <p className="desc">In today’s dynamic world, rapid web application development with a smooth user interface that can adapt to specific features is the main business requirement. Many organizations around the word specific features is the main business requirement. Many organizations around the wordspecific features is the main ....</p>
         </div>
         
         <div className="card-div">
@@ -25,7 +25,7 @@ function Cards() {
           <h2 className="card-heading">Impact of Cloud Computing in various industries</h2>
           <a className="anchor-tag" href="https://www.edyoda.com/">Edyoda</a>
           <span> | &nbsp; <time dateTime="2023-07-01">July 1, 2023</time></span>
-          <p className="desc">Cloud computing has been rapidly gaining pace in the world of information technology. It has been observed that over 90% of global enterprises are using cloud technology as part of their business. Every industry has its own technology dynamics designed to suit its infrastructure  understand the future of this....</p>
+          <p className="desc">Cloud computing has been rapidly gaining pace in the world of information technology. It has been observed that over 90% of global enterprises are using cloud technology as part of their business. Every industry has its own technology dynamics designed to suit its infrastructure  understand the future of this will help you....</p>
         </div>
         
         <div className="card-div">
@@ -38,10 +38,10 @@ function Cards() {
         
         <div className="card-div">
           <img className="card-image" src="https://edyoda.s3.amazonaws.com/media/blog-images/5.png" alt="" />
-          <h2 className="card-heading">Breaking the Myths around Cybersecurity</h2>
+          <h2 className="card-heading">Breaking the Myths around  Cybersecurity, Application Security.</h2>
           <a className="anchor-tag" href="https://www.edyoda.com/">Edyoda</a>
           <span> | &nbsp; <time dateTime="2023-07-01">July 1, 2023</time></span>
-          <p className="desc">As the dependency on online platforms is increasing daily, cybersecurity is becoming an important concern for all companies today. The number of cyberattacks is ever-rising even after adopting every security measure possible by businesses. Cyber attackers are developing advancing technologies that are continuing to </p>
+          <p className="desc">As the dependency on online platforms is increasing daily, cybersecurity is becoming an important concern for all companies today. The number of cyberattacks is ever-rising even after adopting every security measure possible by businesses. Cyber attackers are.. </p>
         </div>
         
         <div className="card-div">
