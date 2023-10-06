@@ -1,31 +1,26 @@
-import React from 'react'
+import React from 'react';
 
 function Navbar() {
   return (
     <div>
-       <header>
-    <div class="header-div">
-    <h1 class="head-h1">
-       EDYODA
-      <strong><i>Stories</i></strong>
- 
-</h1>
-      <span>
-  <select class="head-selection">
-    <option value="option1">Explore Categories</option>
-    <option value="option2">Python</option>
-    <option value="option3">java</option>
-    <option value="option3">javascript</option>
-  </select>
-</span>
-
-      
+      <header>
+        <div className="header-div">
+          <h1 className="head-h1">
+            EDYODA
+            <strong><i>Stories</i></strong>
+          </h1>
+          <span>
+            <select className="head-selection">
+              <option value="explore">Explore Categories</option>
+              <option value="python">Python</option>
+              <option value="java">Java</option>
+              <option value="javascript">JavaScript</option>
+            </select>
+          </span>
+        </div>
+      </header>
     </div>
-  
-
-    </header>
-    </div>
-  )
+  );
 }
 
-export default Navbar
+export default Navbar;

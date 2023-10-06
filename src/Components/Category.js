@@ -1,30 +1,28 @@
-import React from 'react'
+import React from 'react';
 
 function Category() {
   return (
     <div>
-         <div class="article-div">
-   <h1 class="article-head">Trending Posts</h1>
-      
-      <i class="fa-solid fa-filter filter"></i><span class="filter-text">Filtter by Category</span>
-        <article class="button-class">
-          <a class="art-btn">All</a>
-           <a class="art-btn">Artificiol Inteligence</a>
-          <a class="art-btn">Cloud Computing</a>
-          <a class="art-btn">DevOps</a>
-          
-          <a class="art-btn">Programing Languages</a>
-          <a class="art-btn">Mobile Application Development</a>
-          <a class="art-btn">Technology and Tools</a>
-          <a class="art-btn">Get a Job Tech Companies</a>
-          <a class="art-btn">Others</a>
-          
-         
-  </article>
-      
+      <div className="article-div">
+        <h1 className="article-head">Trending Posts</h1>
+
+        <i className="fa-solid fa-filter filter"></i>
+        <span className="filter-text">Filter by Category</span>
+
+        <article className="button-class">
+          <a className="art-btn">All</a>
+          <a className="art-btn">Artificial Intelligence</a>
+          <a className="art-btn">Cloud Computing</a>
+          <a className="art-btn">DevOps</a>
+          <a className="art-btn">Programming Languages</a>
+          <a className="art-btn">Mobile Application Development</a>
+          <a className="art-btn">Technology and Tools</a>
+          <a className="art-btn">Get a Job Tech Companies</a>
+          <a className="art-btn">Others</a>
+        </article>
       </div>
     </div>
-  )
+  );
 }
 
-export default Category
+export default Category;
