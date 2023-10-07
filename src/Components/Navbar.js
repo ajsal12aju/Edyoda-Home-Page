@@ -17,7 +17,14 @@ function Navbar() {
               <option value="javascript">JavaScript</option>
             </select>
           </span>
+          <div className='btn-perant' style={{display:'flex',justifyContent:"flex-end",marginRight:"37px",height:"30px", alignItems:'center',padding:"45px"}}>
+            <p className='contant'>EdYoda is a learning and knowledge <br/>
+sharing platform for techies</p>
+        <a href='https://www.edyoda.com/' target="_blank">   <button className='button'>Go to Main Website</button></a>
+          </div>
         </div>
+        
+      
       </header>
     </div>
   );
